@@ -1,4 +1,4 @@
-# calculating-inportant-keywards-of-a-corpus-using-tf-idf
+# calculating-important-keywords-of-a-corpus-using-tf-idf
 
 <h1>How to run?</h1>
 <p>
